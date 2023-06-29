@@ -1,0 +1,30 @@
+form {
+    height: 60%;
+    width: 80%;
+    padding: 20px;
+    margin: 50px;
+    border: 3px solid black;
+}
+
+button {
+    color: bisque;
+    border-radius: 15px;
+    border: none;
+    height: 36px;
+    width: 105px;
+}
+
+.btn_register {
+    background-color: rgb(200, 0, 0);
+}
+
+.btn_back {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+
+form div {
+    margin: 15px 5px 15px 5px;
+    padding: 5px 15px 15px 25px;
+    border: 2px  black;
+}

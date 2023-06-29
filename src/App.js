@@ -1,5 +1,5 @@
 import { Navigate, Route, Routes } from "react-router-dom";
-import "./App.css";
+
 import AboutPage from "./pages/AboutPage";
 import RegistrationPage from "./pages/RegistrationPage";
 import PhonesPage from "./pages/PhonesPage";
