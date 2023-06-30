@@ -1,0 +1,11 @@
+li {
+  display: inline-block;
+  margin: 15px;
+}
+
+.thumbnail {
+    width: 220px;
+    object-fit:cover;
+    border-style: solid;
+    border-color:  rgb(205, 219, 142);
+};
