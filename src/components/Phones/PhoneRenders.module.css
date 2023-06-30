@@ -4,8 +4,9 @@ li {
 }
 
 .thumbnail {
-    width: 220px;
-    object-fit:cover;
+    width: 12rem;
     border-style: solid;
     border-color:  rgb(205, 219, 142);
+    border-radius: 25px;
+    padding: -55px;
 };
