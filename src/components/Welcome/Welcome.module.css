@@ -1,4 +1,15 @@
 .nav_register {
-    background-color: bisque;
-    color: brown;
+  background-color: white;
+  color: brown;
+  border-radius: 25px;
+  border: 1px solid black;
+}
+
+.nav_register:hover {
+  text-decoration: underline;
+  opacity: 0.5;
+}
+
+span {
+  margin-right: 20px;
 }

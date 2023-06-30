@@ -5,6 +5,7 @@ import AboutPage from "./pages/AboutPage";
 import RegistrationPage from "./pages/RegistrationPage";
 import PhonesPage from "./pages/PhonesPage";
 import NavBar from "./components/header/NavBar/NavBar";
+import './App.css';
 
 function App() {
   return (
