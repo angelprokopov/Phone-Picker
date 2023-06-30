@@ -22,7 +22,7 @@ const RegistrationForm = () => {
         </div>
         <div>
           <button className={styles.btn_register}>REGISTER</button>
-          <button className={styles.btn_back}>HOME</button>
+          <button className={styles.btn_back}>BACK TO HOME</button>
         </div>
       </form>
     </section>

@@ -1,3 +1,8 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
 form {
   height: 60%;
   width: 80%;
@@ -8,13 +13,13 @@ form {
 
 button {
   color: bisque;
-  border-radius: 5px;
+  border-radius: 3px;
   border: none;
-  height: 36px;
-  width: 105px;
+  padding: 5px 25px 5px 25px;
   font-size: 15px;
   font-weight: bolder;
   cursor: pointer;
+  vertical-align: top;
   transition: opacity 1s;
 }
 
