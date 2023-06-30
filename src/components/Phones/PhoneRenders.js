@@ -1,3 +1,5 @@
+import pixel from '../../articles/Google-Pixel-7a.webp';
+
 import styles from "./PhoneRenders.module.css";
 
 const PhoneRenders = () => {
@@ -8,9 +10,7 @@ const PhoneRenders = () => {
           <div>
             <img
               className={styles.thumbnail}
-              src={
-                "https://m-cdn.phonearena.com/images/phones/83956-350/Google-Pixel-7a.webp"
-              }
+              src={pixel} alt='Image Not Available'
             />
             <p>Google Pixel 7a</p>
           </div>
