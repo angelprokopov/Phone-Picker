@@ -21,8 +21,8 @@ const RegistrationForm = () => {
           <input type="password" />
         </div>
         <div>
-          <button className={styles.btn_register}>Register</button>
-          <button className={styles.btn_back}>Back To Home</button>
+          <button className={styles.btn_register}>REGISTER</button>
+          <button className={styles.btn_back}>HOME</button>
         </div>
       </form>
     </section>
